@@ -1,0 +1,23 @@
+================================================================================
+HISTORICAL CARTOGRAPHIC RECORD: BATAVIA
+================================================================================
+MAP TITLE       : Batavia in 1627.jpg
+YEAR / DATE     : 1627
+CARTOGRAPHER    : AnonymousUnknown author
+REPOSITORY      : Leiden University (KITLV) / Nationaal Archief / Tropenmuseum
+SHELFMARK / ID  : Dutch Colonial Map Collection
+FORMAT / SIZE   : JPG (0.95 MB)
+LOCAL FILENAME  : 1627_Batavia_in_1627.jpg.jpg
+SOURCE URL      : https://commons.wikimedia.org/wiki/File:Batavia_in_1627.jpg
+RIGHTS / LICENSE: Public domain
+
+--------------------------------------------------------------------------------
+ACADEMIC CITATION:
+--------------------------------------------------------------------------------
+AnonymousUnknown author (1627). "Batavia in 1627.jpg". Shelfmark: Dutch Colonial Map Collection. Dutch National Repositories (KITLV/Nationaal Archief). Permanent URL: https://commons.wikimedia.org/wiki/File:Batavia_in_1627.jpg
+
+--------------------------------------------------------------------------------
+CURATORIAL NOTES / MAP DESCRIPTION:
+--------------------------------------------------------------------------------
+Map of Batavia around 1627
+================================================================================
